@@ -69,5 +69,5 @@
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](www.linkedin.com/in/ramakrishnangunasekaran)
 - 🌐 [Portfolio](https://portfolio-lac-phi-99.vercel.app)
