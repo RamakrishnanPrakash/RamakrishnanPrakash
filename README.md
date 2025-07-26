@@ -56,9 +56,8 @@
 - 🌐 **Tech Stack**: Next.js, Node.js, Express, MongoDB, Firebase, Socket.IO  
 - 📱 Designed to work beautifully on both mobile and desktop  
 
-📸 **Preview Image Coming Soon**
 
----
+<img width="2876" height="2530" alt="localhost_5173_ (24)" src="https://github.com/user-attachments/assets/6765c801-5c0e-43bd-bcb5-144fa22a1a56" />
 
 ## 📊 GitHub Stats
 
